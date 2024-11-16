@@ -5,5 +5,12 @@
     "status": "todo",
     "createdAt": "2024-11-15T10:00:47.176Z",
     "updatedAt": "2024-11-15T10:00:47.191Z"
+  },
+  {
+    "id": 2,
+    "description": "Buy groceries",
+    "status": "todo",
+    "createdAt": "2024-11-15T15:07:26.068Z",
+    "updatedAt": "2024-11-15T15:07:26.082Z"
   }
 ]
